@@ -44,7 +44,7 @@ const AttemptHistory = () => {
           </div>
         ))}
       </div>
-      <Link to="/" className="flex-1">
+      <Link to="/quiz" className="flex-1">
         <button className="w-full bg-green-500 hover:bg-green-600 text-white font-semibold my-6 py-2 px-4 rounded transition duration-200">
           Retry Quiz
         </button>
