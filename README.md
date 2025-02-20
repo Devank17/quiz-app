@@ -54,3 +54,6 @@
    yarn dev
    ```
 - **Open your browser and navigate to http://localhost:5173 (or the URL provided in your terminal) to see the app in action.**
+
+4. **Deployed Link**
+- https://quiz-app-devank-singhs-projects.vercel.app
